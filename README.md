@@ -15,6 +15,7 @@
 3. [NautilusTrader 官网](https://nautilustrader.io/)，其是一款用 Rust 作为核心的用 Python 调用的高性能量化交易框架
 4. [VeighNa 官网](https://www.vnpy.com/)，其是基于 Python 的开源量化交易平台开发框架
 5. [QuantStats](https://github.com/ranaroussi/quantstats)，其是一款投资组合绩效分析工具
+6. [OpenBacktesting](https://github.com/lucidcog/openbacktesting)，其是一款基于 Python 的单资产历史回测框架，支持技术指标、交易与权益统计以及参数优化
 
 ## Rust 资源
 
